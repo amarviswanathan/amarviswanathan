@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
 - :microscope: AI researcher
   * 🌐 Semantic Web and Linked Data
   * :notebook: Machine Learning
@@ -26,3 +26,14 @@ Here are some ideas to get you started:
 - 🏏🎾 Cricket and Tennis addict
 - 📜 Fascinated with history!
 - 🎶🎸 Indian classical music lover!
+
+-->
+
+
+| Work                       | Academic | Fun Stuff! |
+|----------------------------|----------|------------|
+| :microscope: AI researcher | 🎓 Alum of [RPI](https://www.rpi.edu/)         |   😀 Shows teeth always!         |
+| 🌐 Semantic Web and Linked Data                           | 📜 [CV](https://amarviswanathan.github.io/files/cv-latest.pdf)         |    🏏🎾 Cricket and Tennis addict        |
+| :notebook: Machine Learning                           |  🎓 [Google Scholar](https://scholar.google.com/citations?user=1YecUQMAAAAJ&hl=en)       |  📜 Fascinated with history!          |
+| :notebook: Deep Learning                           |          |     🎶🎸 Indian classical music lover!
+       |
