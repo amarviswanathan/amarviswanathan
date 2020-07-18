@@ -1,5 +1,7 @@
 ### Amar Viswanathan here! 👋
 
+I work on problems related to knowledge representation, querying and language and vision.
+
 <!--
 **amarviswanathan/amarviswanathan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
