@@ -14,3 +14,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- :microscope: AI researcher
+  * 🌐 Semantic Web and Linked Data
+  * :notebook: Machine Learning
+  * :notebook: Natural Language Processing
+  * :notebook: Deep Learning
+- 🎓 Alum of [RPI](https://www.rpi.edu/)
+- 📜 [CV](https://amarviswanathan.github.io/files/cv-latest.pdf)
+
+- 😀 Shows teeth always!
+- 🏏🎾 Cricket and Tennis addict
+- 📜 Fascinated with history!
+- 🎶🎸 Indian classical music lover!
