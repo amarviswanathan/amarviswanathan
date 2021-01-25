@@ -40,6 +40,9 @@ Here are some ideas to get you started:
 |:notebook: Machine Learning| :notebook: Deep Learning  |     🎶🎸 Indian classical music lover!|
 <br />
 
+💬 Ask me about anything [here](https://github.com/amarviswanathan/amarviswanathan/issues)
+
+
 ### Connect with me: 
 
 [<img align="left" alt="amarviswanathan" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://amarviswanathan.github.io/blog/)
@@ -47,6 +50,10 @@ Here are some ideas to get you started:
 [<img align="left" alt="amarviswanathan | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/amarviswanathan/)
 <br />
 
+**Note :** These stats don't necessarily convey my skill level. I found it to be a cool feature, which was taken from [github-readme-stats](https://github.com/anuraghazra/github-readme-stats) 😀
+
 ---
-![Amar's github stats](https://github-readme-stats.vercel.app/api?username=amarviswanathan&hide=contribs,prs&show_icons=true@hide_border=true)
+![Amar's github stats](https://github-readme-stats.vercel.app/api?username=amarviswanathan&hide=contribs,prs&show_icons=true@hide_border=true&layout=compact)
+![Amar's language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=amarviswanathan&layout=compact)
+
 ---
