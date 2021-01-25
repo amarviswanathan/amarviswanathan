@@ -42,9 +42,17 @@ Here are some ideas to get you started:
 
 💬 Ask me about anything [here](https://github.com/amarviswanathan/amarviswanathan/issues)
 
-### Languages and Tools
+### Languages, Tools and Miscellany
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/semanticweb.svg' alt='semanticweb' height='40'>](https://en.wikipedia.org/wiki/Semantic_Web)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/python.svg' alt='python' height='40'>](https://www.python.org/)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/pandas.svg' alt='pandas' height='40'>](https://pandas.pydata.org/)  
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/tensorflow.svg' alt='tensorflow' height='40'>](https://www.tensorflow.org/)
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/pytorch.svg' alt='pytorch' height='40'>](https://pytorch.org/) 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/jupyter.svg' alt='jupyter' height='40'>](https://jupyter.org/)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/visualstudiocode.svg' alt='visualstudiocode' height='40'>](https://code.visualstudio.com/)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/jekyll.svg' alt='jekyll' height='40'>](https://jekyllrb.com/)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/arxiv.svg' alt='arxiv' height='40'>](https://arxiv.org/) 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/2526444/n00bsie)
 
 
 **Note :** These stats don't necessarily convey my skill level. I found it to be a cool feature, which was taken from [github-readme-stats](https://github.com/anuraghazra/github-readme-stats) 😀
