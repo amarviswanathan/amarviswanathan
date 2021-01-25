@@ -38,6 +38,7 @@ Here are some ideas to get you started:
 |![Co-PI](https://avatars0.githubusercontent.com/u/45823819?s=25&v=1)  [DARPA ASKE](https://github.com/deepcurator/DCC)| 📜 [CV](https://amarviswanathan.github.io/files/cv-latest.pdf)         |    🏏🎾 Cricket and Tennis addict        |
 | 🌐 Semantic Web and Linked Data|  🎓 [Google Scholar](https://scholar.google.com/citations?user=1YecUQMAAAAJ&hl=en)       |  📜 Fascinated with history!          |
 |:notebook: Machine Learning| :notebook: Deep Learning  |     🎶🎸 Indian classical music lover!|
+<br />
 
 ### Connect with me: 
 
