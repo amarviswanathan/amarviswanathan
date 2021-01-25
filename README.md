@@ -49,6 +49,7 @@ Here are some ideas to get you started:
 [<img align="left" alt="amarviswanathan | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/amarviswanathan/)
  
 <br />
+<br />
 
 **Note :** These stats don't necessarily convey my skill level. I found it to be a cool feature, which was taken from [github-readme-stats](https://github.com/anuraghazra/github-readme-stats) 😀
 
