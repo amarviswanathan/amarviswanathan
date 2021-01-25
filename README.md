@@ -44,8 +44,8 @@ Here are some ideas to get you started:
 [<img align="left" alt="amarviswanathan" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://amarviswanathan.github.io/blog/)
 [<img align="left" alt="amarviswanathan | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/amarv)
 [<img align="left" alt="amarviswanathan | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/amarviswanathan/)
-
 <br />
+
 ---
 ![Amar's github stats](https://github-readme-stats.vercel.app/api?username=amarviswanathan&hide=contribs,prs&show_icons=true@hide_border=true)
 ---
