@@ -44,10 +44,10 @@ Here are some ideas to get you started:
 
 
 ### Connect with me: 
-
 [<img align="left" alt="amarviswanathan" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://amarviswanathan.github.io/blog/)
 [<img align="left" alt="amarviswanathan | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/amarv)
 [<img align="left" alt="amarviswanathan | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/amarviswanathan/)
+ 
 <br />
 
 **Note :** These stats don't necessarily convey my skill level. I found it to be a cool feature, which was taken from [github-readme-stats](https://github.com/anuraghazra/github-readme-stats) 😀
@@ -57,3 +57,11 @@ Here are some ideas to get you started:
 ![Amar's language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=amarviswanathan&layout=compact)
 
 ---
+ 
+ <p align="center">
+    <a href="http://hits.dwyl.com/amarviswanathan/amarviswanathan">
+      <img align="center" src="http://hits.dwyl.com/amarviswanathan/amarviswanathan.svg">
+    </a>
+  </p>
+</p>
+
