@@ -54,7 +54,8 @@ Here are some ideas to get you started:
 
 ---
 ![Amar's github stats](https://github-readme-stats.vercel.app/api?username=amarviswanathan&hide=contribs,prs&show_icons=true@hide_border=true&layout=compact)
-![Amar's language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=amarviswanathan&layout=compact)
+
+![Amar's language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=amarviswanathan)
 
 ---
  
