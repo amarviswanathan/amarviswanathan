@@ -65,12 +65,4 @@ Here are some ideas to get you started:
 [<img align="left" alt="amarviswanathan | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/amarv)
 [<img align="left" alt="amarviswanathan | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/amarviswanathan/)
  
-<br />
-<br />
- <p align="center">
-    <a href="http://hits.dwyl.com/amarviswanathan/amarviswanathan">
-      <img align="center" src="http://hits.dwyl.com/amarviswanathan/amarviswanathan.svg">
-    </a>
-  </p>
-</p>
 
