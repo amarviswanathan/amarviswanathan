@@ -50,14 +50,14 @@ Here are some ideas to get you started:
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/jupyter.svg' alt='jupyter' height='40'>](https://jupyter.org/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/visualstudiocode.svg' alt='visualstudiocode' height='40'>](https://code.visualstudio.com/) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/arxiv.svg' alt='arxiv' height='40'>](https://arxiv.org/) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/2526444/n00bsie)
 
 
-**Note :** These stats don't necessarily convey my skill level. I found it to be a cool feature, which was taken from [github-readme-stats](https://github.com/anuraghazra/github-readme-stats) 😀
+<!-- **Note :** These stats don't necessarily convey my skill level. I found it to be a cool feature, which was taken from [github-readme-stats](https://github.com/anuraghazra/github-readme-stats) 😀 -->
 
 ---
-![Amar's github stats](https://github-readme-stats.vercel.app/api?username=amarviswanathan&hide=contribs,prs&show_icons=true@hide_border=true)
+<!-- ![Amar's github stats](https://github-readme-stats.vercel.app/api?username=amarviswanathan&hide=contribs,prs&show_icons=true@hide_border=true) -->
 
-![Amar's language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=amarviswanathan)
+<!-- ![Amar's language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=amarviswanathan) -->
 
-![Github Streak](https://github-readme-streak-stats.herokuapp.com/?user=amarviswanathan)
+<!-- ![Github Streak](https://github-readme-streak-stats.herokuapp.com/?user=amarviswanathan) -->
 
 ---
  ### Connect with me: 
