@@ -52,7 +52,7 @@ Here are some ideas to get you started:
 
 <!-- **Note :** These stats don't necessarily convey my skill level. I found it to be a cool feature, which was taken from [github-readme-stats](https://github.com/anuraghazra/github-readme-stats) 😀 -->
 
----
+
 <!-- ![Amar's github stats](https://github-readme-stats.vercel.app/api?username=amarviswanathan&hide=contribs,prs&show_icons=true@hide_border=true) -->
 
 <!-- ![Amar's language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=amarviswanathan) -->
